@@ -19,4 +19,4 @@
 2. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CosmicColony.git
+git remote add origin https://github.com/GeorgiyKon/CosmicColony.git
